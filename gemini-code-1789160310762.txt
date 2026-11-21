@@ -1,0 +1,7 @@
+PORT=3000
+MPESA_CONSUMER_KEY=your_consumer_key
+MPESA_CONSUMER_SECRET=your_consumer_secret
+MPESA_B2C_SHORTCODE=600000
+MPESA_INITIATOR_NAME=your_initiator_username
+MPESA_SECURITY_CREDENTIAL=your_encrypted_security_credential
+BASE_URL=https://your-domain.com
